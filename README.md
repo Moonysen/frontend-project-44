@@ -10,3 +10,5 @@ https://asciinema.org/a/0Xge76Dk4peWeCEGFzzPsCKzi - Brain-Even
 https://asciinema.org/a/6q2tomLvZYpzQg4bcmIzCpHHt - Brain-Calc
 
 https://asciinema.org/a/ZQP78ppG2CbCdA0yRuTsAyQfl - Brain-Gcd
+
+https://asciinema.org/a/I4jUGElNJmGcasNdgy9luwhxD - Brain-Progression

@@ -1,4 +1,4 @@
-import gcdgame from '../index.js';
+import brainProgressionGame from '../index.js';
 import { random } from '../usefulfunctions.js';
 
 const descriptionGame = 'What number is missing in the progression?';
@@ -28,5 +28,5 @@ const getQuestionAndAnswer = () => {
 };
 
 export default () => {
-  gcdgame(descriptionGame, getQuestionAndAnswer);
+  brainProgressionGame(descriptionGame, getQuestionAndAnswer);
 };
